@@ -1,0 +1,1 @@
+Cuando agregamos un archivo pudimos hacer commit de la carpeta 
